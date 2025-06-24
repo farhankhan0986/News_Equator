@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "CBS News",
+            "title": "How Americans are celebrating the Juneteenth holiday",
+            "description": "Americans are celebrating Juneteenth, the latest federal holiday in the U.S. that commemorates the end of slavery after the Civil War. CBS News' Shanelle Kaul reports.",
+            "url": "https://www.cbsnews.com/video/how-americans-are-celebrating-the-juneteenth-holiday/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2025/06/19/9cd26beb-825f-45e4-9c0d-18af5b726844/thumbnail/1200x630/f74b52a3b42d31abc421c71b6db73bb2/cbsn-fusion-how-americans-are-celebrating-the-juneteenth-holiday-thumbnail.jpg?v=64f55bb7ef9382fe7916b907da543f1f",
+            "publishedAt": "2025-06-19T18:09:00+00:00",
+            "content": "Copyright ©2025 CBS Interactive Inc. All rights reserved."
+        },
+        {
+            "source": {
+                "id": "bild",
+                "name": "Bild"
+            },
+            "author": "Thomas Fischer",
+            "title": "Bautzen:  Ex-Innenminister in schweren Unfall verwickelt | News",
+            "description": "Motorrad-Unfall in Sachsen: Ex-Innenminister Markus Ulbig setzt mit VW zurück – Biker stürzt schwer. Polizei ermittelt wegen fahrlässiger Körperverletzung.",
+            "url": "https://www.bild.de/news/inland/bautzen-ex-innenminister-in-schweren-unfall-verwickelt-6853c067d89474609437aaad",
+            "urlToImage": "https://images.bild.de/6853c067d89474609437aaad/fa5bd2ae39a81a23f66d339fc95535fc,7286ea58?w=1280",
+            "publishedAt": "2025-06-19T17:49:26Z",
+            "content": "Bautzen Ein schwerer Unfall an der Autobahn-Auffahrt zur A 4 in Sachsen hat nicht nur schlimme Folgen für den gestürzten Motorradfahrer. Jetzt ermittelt die Polizei gegen einen ehemaligen Minister!\r\n… [+2105 chars]"
+        }
+    ]
+}

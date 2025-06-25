@@ -13,10 +13,6 @@ const Navbar =()=> {
             </button>
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
-                <li className="nav-item">
-                <Link className="nav-link " aria-current="page" to="/about">Home</Link>
-                </li>
-               <li><Link className="nav-link" to="/business">About</Link></li> 
                <li><Link className="nav-link" to="/business">Business</Link></li> 
                <li><Link className="nav-link" to="/entertainment">Entertainment</Link></li> 
                <li><Link className="nav-link" to="/general">General</Link></li> 
@@ -24,8 +20,6 @@ const Navbar =()=> {
                <li><Link className="nav-link" to="/science">Science</Link></li> 
                <li><Link className="nav-link" to="/sports">Sports</Link></li> 
                <li><Link className="nav-link" to="/technology">Technology</Link></li> 
-                  
-               
             </ul>
             {/* <form className="d-flex" role="search">
                 <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
@@ -36,7 +30,5 @@ const Navbar =()=> {
         </nav>
       </div>
     )
-  
 }
-
 export default Navbar

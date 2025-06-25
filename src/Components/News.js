@@ -56,13 +56,8 @@ const News =(props)=> {
         setArticles(prev => prev.concat(parsedData.articles || []));
         setTotalResults(parsedData.totalResults || 0);
       }
-    
-
-
-
     return (
       <>
-      
         <h1 className='text-center' style={{ color: 'crimson', margin: '30px 0px' ,marginTop:"90px"}}>
           {`NewsEquator - Top ${capitalize(props.category)} Headlines`}
         </h1>
@@ -70,8 +65,13 @@ const News =(props)=> {
         <InfiniteScroll
           dataLength={articles.length}  
           next={fetchData}
-          hasMore={articles.length !== totalResults}
-          loader={<Spinner/>}>
+          hasMore={articles.length < totalResults}
+          loader={<Spinner/>}
+          endMessage={
+          <p style={{ textAlign: 'center', marginTop: '20px' }}>
+            <b>Yay! You have seen all the news 🎉</b>
+          </p>
+          }>
 
             <div className="container">
         <div className="row">
@@ -91,12 +91,10 @@ const News =(props)=> {
             );
           })}
         </div>
-        </div>
-        
+        </div>    
           </InfiniteScroll>
       </>
     );
-  
 }
 
 News.defaultProps = {
@@ -110,9 +108,5 @@ News.defaultProps = {
     category: PropTypes.string,
     size: PropTypes.number
   };
-
-
-
-
 
 export default News;
